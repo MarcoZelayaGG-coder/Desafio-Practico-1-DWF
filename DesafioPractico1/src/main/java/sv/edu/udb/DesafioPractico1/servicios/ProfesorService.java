@@ -1,0 +1,18 @@
+package sv.edu.udb.DesafioPractico1.servicios;
+
+import sv.edu.udb.DesafioPractico1.entidades.Profesor;
+import sv.edu.udb.DesafioPractico1.repositorios.ProfesorRepositorio;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+import java.util.List;
+
+@Service
+public class ProfesorService {
+    @Autowired
+    private ProfesorRepositorio repository;
+
+    public List<Profesor> listar() { return repository.findAll(); }
+    public Profesor guardar(Profesor p) { return repository.save(p); }
+    public Profesor buscar(Long id) { return repository.findById(id).orElse(null); }
+    public void eliminar(Long id) { repository.deleteById(id); }
+}

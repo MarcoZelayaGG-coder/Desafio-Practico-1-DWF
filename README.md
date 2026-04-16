@@ -7,7 +7,7 @@ Este proyecto es una API REST desarrollada con Spring Boot para la gestión de a
 
 Instrucciones de uso
 
-1- Descargar el repositorio(tambien puede clonarse).
+1- Descargar el repositorio (tambien puede clonarse).
 
 2- Configurar la Base de Datos:
    Asegúrarse de tener XAMPP iniciado (Apache y MySQL).

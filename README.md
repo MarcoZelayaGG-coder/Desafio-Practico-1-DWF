@@ -21,4 +21,8 @@ Instrucciones de uso
   Una vez ejecutada la aplicación, puedes acceder a la interfaz de Swagger UI para probar los endpoints en la siguiente dirección:
   http://localhost:8080/swagger-ui.html
 
+  Video Explicativo:
+  https://drive.google.com/file/d/1b3Qwd6GiPgrT3q-84uYEUVRNA0aTqwT2/view?usp=sharing
 
+  Video Explicativo (Mejor calidad):
+  https://youtu.be/UVjH0ZUZYHE

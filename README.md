@@ -10,7 +10,7 @@ Este proyecto es una API REST desarrollada con Spring Boot para la gestión de a
 Instrucciones de descarga:
 
 1-Cambiar de modo Main -> Master
-Para tener acceso al codigo del segundo desafio.
+Para tener acceso al codigo del segundo desafío práctico.
 
 Instrucciones de uso
 

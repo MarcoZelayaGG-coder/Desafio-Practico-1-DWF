@@ -5,7 +5,7 @@ Proyecto de gestión escolar desarrollado con Spring Boot, JPA y MySQL.
 
 Este proyecto es una API REST desarrollada con Spring Boot para la gestión de alumnos, materias y profesores. Implementa relaciones complejas de base de datos y sigue una arquitectura de capas para garantizar la mantenibilidad del codigo.
 
-Por favor, asegúrese de cambiar la rama de main a master en el menú desplegable de GitHub para visualizar los archivos del segundo desafío práctico
+⚠️ Por favor, asegúrese de cambiar la rama de main a master en el menú desplegable de GitHub para visualizar los archivos del segundo desafío práctico ⚠️
 
 Instrucciones de descarga:
 
